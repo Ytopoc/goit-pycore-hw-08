@@ -1,4 +1,4 @@
-# Address Book — Pickle Persistence
+# Address Book - Pickle Persistence
 
 CLI address book that survives restarts. Builds on the previous iteration by adding `pickle` serialization so contacts are saved to `addressbook.pkl` on exit and reloaded on next launch.
 
